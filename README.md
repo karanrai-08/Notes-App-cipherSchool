@@ -1,1 +1,1 @@
-# Notes-App-cipherSchool
+# NotesAppCipherSchools
